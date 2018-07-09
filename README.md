@@ -2,6 +2,8 @@
 
 ## 下载
 
+<https://github.com/xiaomingplus/time/releases/download/v1.0.0/time.alfredworkflow>
+
 ## 如何使用？
 
 
